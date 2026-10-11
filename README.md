@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Rajneesh Shukla 👋
 
-<!--
-**Rajneesh-shukla-QA/Rajneesh-shukla-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Manual Software Tester | Quality Assurance
 
-Here are some ideas to get you started:
+##  Introduction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! I'm Rajneesh Shukla, an aspiring Manual Software Tester interested in software quality assurance. I enjoy understanding application functionality, writing test cases, identifying defects, and helping improve software quality.
+
+##  About Me
+
+-  Focused on Manual Software Testing.
+-  Practicing test case design and defect reporting.
+-  Learning software testing concepts and methodologies.
+-  Looking for opportunities to begin my career in software testing.
+
+##  Skills
+
+- Manual Testing
+- Test Scenarios and Test Cases
+- Bug Reporting
+- Functional Testing
+- Smoke Testing
+- Regression Testing
+- SDLC and STLC
+
+##  Projects
+
+### OpenCart Manual Testing
+
+A manual testing project focused on validating the functionality of an e-commerce application.
+
+➡️ **[View OpenCart Testing Project](https://github.com/Rajneesh-shukla-QA/OpenCart_manual_testing_project.git)**
+
+##  Connect With Me
+
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/rajneeshshukla/)
+- Email: raazshukla433409@gmail.com
+
+---
+
+*Thank you for visiting my profile!*
